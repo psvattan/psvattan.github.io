@@ -1,2 +1,1 @@
-# psvattan.github.io
-Vattan.com
+# Vattan.com
